@@ -1,2 +1,2 @@
-job("hello-world"){
+job("hello-worlds"){
 }
